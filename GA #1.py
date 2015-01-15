@@ -1,4 +1,4 @@
-#Kris Kenney
+#Group members: Kris Kenney and Benjamin Jackson
 #kenneyk@onid.orst.edu
 #CS325
 #Assignment #1
