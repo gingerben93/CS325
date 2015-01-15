@@ -5,7 +5,7 @@
 
 import random
 import time
-
+#test
 #Enumeration
 def alg1(arr):
     sum1 = arr[0]
